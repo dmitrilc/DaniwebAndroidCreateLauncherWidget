@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Daniweb Android Create Launcher Widget</string>
+    <string name="widget_textView">Hello World!</string>
+</resources>
